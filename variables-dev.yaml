@@ -1,4 +1,4 @@
 login_host: db-dev.aviexpense.online
 login_user: root
 login_password: ExpenseApp1
-DB_URL:  db-dev.aviexpense.online
+DB_URL: db-dev.aviexpense.online

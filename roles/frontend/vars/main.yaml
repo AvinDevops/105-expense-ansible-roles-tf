@@ -1,3 +1,2 @@
-BACKEND_URL: backend.aviexpense.online
 app_loc: /usr/share/nginx/html
 component: frontend
